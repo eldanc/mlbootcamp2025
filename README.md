@@ -36,6 +36,7 @@ PCA and K-Means
 ### Lab 5
 
 Pytorch and Neural Networks 
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eldanc/mlbootcamp2025/blob/main/lab_2_1_neuralnets.ipynb)
 
 
