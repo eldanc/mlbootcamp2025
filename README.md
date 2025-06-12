@@ -45,3 +45,19 @@ Pytorch and Neural Networks
 Autoencoders
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eldanc/mlbootcamp2025/blob/main/lab_3_2_autoencoders.ipynb)
+
+
+## Day 4
+
+### Lab 7
+
+Graph Neural Networks
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eldanc/mlbootcamp2025/blob/main/lab_4_1_gnn.ipynb)
+
+
+### Lab 8
+
+Interpretability
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eldanc/mlbootcamp2025/blob/main/lab_4_2_interpetability.ipynb)
