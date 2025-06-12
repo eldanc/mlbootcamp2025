@@ -60,4 +60,4 @@ Graph Neural Networks
 
 Interpretability
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eldanc/mlbootcamp2025/blob/main/lab_4_2_interpetability.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eldanc/mlbootcamp2025/blob/main/lab_4_2_interpretability.ipynb)
